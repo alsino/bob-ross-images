@@ -1,0 +1,3 @@
+# Ignore image folder
+images/
+node_modules/
