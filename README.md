@@ -1,6 +1,6 @@
 # Bob Ross Image Scraper
 
-![A nice image](https://raw.githubusercontent.com/alsino/bob-ross-images/master/sample-image.png)
+![A nice image](https://raw.githubusercontent.com/alsino/bob-ross-images/master/images/0.sample-image.png)
 
 This is a simple and quick webscraper using node.js and the [request module](https://github.com/request/request#readme) to retrieve beautiful and happy paintings from Bob Ross from [this website](https://www.twoinchbrush.com/).
 
