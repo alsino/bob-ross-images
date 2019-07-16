@@ -2,6 +2,11 @@
 
 This is a simple webscraper using node.js and the [request module](https://github.com/request/request#readme) to retrieve beautiful and happy paintings from Bob Ross from [this website](https://www.twoinchbrush.com/).
 
+The [chalk module](https://github.com/chalk/chalk#readme) is used for syntax highlighting in the terminal.
+
+# Warning
+All images by Bob Ross are copyright protected. This script is functional but should not be used without prior authorization by the image owners. Please consult their [terms of service](https://www.twoinchbrush.com/terms-of-service) before using this tool.
+
 # Usage
 
 1. Download or clone this repo with `git clone https://github.com/alsino/bob-ross-images.git`
