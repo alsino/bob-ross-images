@@ -6,7 +6,7 @@ This is a simple webscraper using node.js and the request module to retrieve bea
 
 1. Download or clone this repo with `git clone https://github.com/alsino/bob-ross-images.git`
 2. Install the project dependencies with `npm install`.
-3. In your terminal navigate to the repo with `cd bob-ross-images`
+3. In your terminal navigate to the repo with `cd bob-ross-images-master`
 4. Run the scraper with `node scraper.js`
 
 # Happy Bob Ross'in...
