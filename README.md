@@ -1,6 +1,6 @@
 # Bob Ross image scraper
 
-This is a simple webscraper using node.js and the request module to retrieve beautiful and happy paintings from Bob Ross from [this website](https://www.twoinchbrush.com/).
+This is a simple webscraper using node.js and the [request module](https://github.com/request/request#readme) to retrieve beautiful and happy paintings from Bob Ross from [this website](https://www.twoinchbrush.com/).
 
 # Usage
 
