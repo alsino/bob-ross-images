@@ -1,5 +1,7 @@
 # Bob Ross image scraper
 
+![A nice image](https://raw.githubusercontent.com/alsino/bob-ross-images/master/sample-image.png)
+
 This is a simple webscraper using node.js and the [request module](https://github.com/request/request#readme) to retrieve beautiful and happy paintings from Bob Ross from [this website](https://www.twoinchbrush.com/).
 
 The [chalk module](https://github.com/chalk/chalk#readme) is used for syntax highlighting in the terminal.
@@ -15,5 +17,3 @@ All images by Bob Ross are copyright protected. This script is functional but sh
 4. Run the scraper with `node scraper.js`
 
 # Happy Bob Ross'in...
-
-![A nice image](https://raw.githubusercontent.com/alsino/bob-ross-images/master/sample-image.png)
