@@ -11,3 +11,4 @@ This is a simple webscraper using node.js and the [request module](https://githu
 
 # Happy Bob Ross'in...
 
+![A nice image](https://raw.githubusercontent.com/alsino/bob-ross-images/master/sample-image.png)
